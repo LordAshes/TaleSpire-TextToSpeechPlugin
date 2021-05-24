@@ -1,6 +1,8 @@
 # TaleSpire-TextToSpeechPlugin
 Provides keyboard initiated situational character specific quotues via displayed and TTS.
 
+Video Demo: https://youtu.be/VpKJJl7XGS8
+
 ## Installation
 
 The plugin ZIP file contains a folder called "TaleSpire_CustomData". This folder needs to be, manually, moved to the Talespire directory.
